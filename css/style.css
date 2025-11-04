@@ -1,5 +1,11 @@
+.bg-navbar {
+  background: linear-gradient(
+    to top,
+    oklch(0.1776 0 0),
+    oklch(0.3858 0.0624 41.2)
+  );
+}
 .basement {
-  background-color: #603829;
   border-radius: 0px 3px;
   border-style: solid;
   border-width: 36.667px;
